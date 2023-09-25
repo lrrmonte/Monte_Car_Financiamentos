@@ -1,0 +1,11 @@
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\bin\Debug\Monte_Car_Financiamentos.exe.config
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\bin\Debug\Monte_Car_Financiamentos.exe
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\bin\Debug\Monte_Car_Financiamentos.pdb
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.Form1.resources
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.Properties.Resources.resources
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.csproj.GenerateResource.cache
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.exe
+C:\Users\linco\OneDrive\Documentos\Projetos_C#\Monte_Car_Financiamentos\Monte_Car_Financiamentos\obj\Debug\Monte_Car_Financiamentos.pdb
